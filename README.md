@@ -1,0 +1,4 @@
+- Hi, I’m @Feremonchik
+- I’m interested in films,programming,cooking,photography and film-making
+- I’m currently learning python, html looking forward to C++
+- Pronouns: he/him
